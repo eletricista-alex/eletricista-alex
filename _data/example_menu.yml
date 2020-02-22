@@ -1,0 +1,6 @@
+- label: Example Menu
+  items:
+    - name: Hom2e
+      link: /
+    - name: Contato
+      link: /blog/
