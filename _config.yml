@@ -5,7 +5,7 @@ email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/eletricista-alex"
-url: "localhost:4000"
+url: "eletricista-alex.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 
