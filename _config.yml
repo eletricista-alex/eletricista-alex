@@ -4,7 +4,7 @@ tagline: Eletricista Alexandre
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/index"
+baseurl: "/eletricista-alex"
 url: "localhost:4000"
 permalink: pretty
 #favicon: /path/to/favicon.png
