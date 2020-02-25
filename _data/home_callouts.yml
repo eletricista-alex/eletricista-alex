@@ -5,7 +5,7 @@ items:
     icon: fa-lightbulb
   - title: Blog included
     subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
+    icon: fa-bolt
+  - title: [Some Link]({% post_url 2010-07-21-name-of-post %})
     subtitle: Quick and easy to get started
-    icon: fab fa-github
+    icon: fa-phone
