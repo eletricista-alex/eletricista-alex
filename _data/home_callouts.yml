@@ -6,6 +6,6 @@ items:
   - title: Blog included
     subtitle: Layouts for blog and post pages included
     icon: fa-bolt
-  - title: [Some Link]({% post_url 2010-07-21-name-of-post %})
-    subtitle: Quick and easy to get started
+  - title: as
+    subtitle: saads
     icon: fa-phone

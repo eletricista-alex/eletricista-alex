@@ -4,11 +4,10 @@ subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
 show_sidebar: false
-
 ---
 
 # Bulma Clean Theme demo website
-
+[teste](www.google.com)
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
