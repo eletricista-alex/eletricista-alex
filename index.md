@@ -1,8 +1,7 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Eletricista em São Paulo
+subtitle: Eletricista qualificado pelo SENAI, com 20 anos de experiência.
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 ELETRICISTA
